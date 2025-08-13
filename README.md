@@ -43,7 +43,8 @@ Lists the top 10 EV models with total vehicle count and market share.
 ---
 
 ## 📷 Dashboard Preview
-![C:\Users\Admin\Downloads.png)
+![Electric Vehicle Dashboard](dashboard/Electric%20Vehicle%20Dashboard.png)
+
 
 
 
