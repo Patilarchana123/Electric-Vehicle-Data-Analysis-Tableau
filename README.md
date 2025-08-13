@@ -36,13 +36,14 @@ Lists the top 10 EV models with total vehicle count and market share.
 ---
 
 ## 🛠 Tools & Technologies
-- **Visualization**: Power BI / Tableau
-- **Data Processing**: Python (Pandas, NumPy) *(if preprocessing was required)*
+- **Visualization**: Tableau
 - **Data Source**: EV registration dataset (2010 onwards)
-- **File Formats**: `.pbix` / `.twb` for dashboard, `.csv` for data
+- **File Formats**: `.twb` for dashboard, `.csv` for data
 
 ---
 
-## 📂 Repository Structure
+## 📷 Dashboard Preview
+![C:\Users\Admin\Downloads.png)
+
 
 
